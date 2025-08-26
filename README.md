@@ -4,7 +4,7 @@
 Email Me 👉 ✉️ **arpitkharwade2004@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 👀 I’m interested in AI and Machine Learning.
-- 🌱 I’m currently learning and solving problems with help of DSA with the help of C++.
+- 🌱 I’m currently learning and solving DSA problems with the help of C++.
 - 💞️ I’m looking to collaborate on AIML projects and Web Dev projects.
   
 ## 🌐 Socials:
