@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Arpit Kharwade 
-# CSE-AIML 4th year student at LNCTE,Bhopal (M.P.) 
+## CSE-AIML 4th year student at LNCTE,Bhopal (M.P.) 
 
 Email Me 👉 ✉️ **arpitkharwade2004@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
