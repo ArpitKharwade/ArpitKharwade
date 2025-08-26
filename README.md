@@ -31,7 +31,7 @@ Email Me 👉 ✉️ **arpitkharwade2004@gmail.com** For Collaboration/Project o
 ![](https://github-readme-stats.vercel.app/api?username=ArpitKharwade&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitKharwade&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook)
 ![](https://nirzak-streak-stats.vercel.app/?user=ArpitKharwade&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitKharwade&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 
 
