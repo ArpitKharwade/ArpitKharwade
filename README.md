@@ -1,5 +1,5 @@
-# 💫 Hi 👋, I'm Arpit Kharwade
-**A passionate Machine Learning Engineer from India**
+# 💫 Hi 👋, I'm Arpit Kharwade 
+from India
 
 Email Me 👉 ✉️ **arpitkharwade2004@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
