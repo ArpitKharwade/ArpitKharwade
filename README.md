@@ -1,10 +1,10 @@
-# 💫 Hi 👋, I'm Arpit Kharwade 
+#  Hi 👋, I'm Arpit Kharwade 
 ### CSE-AIML 4th year student at LNCTE, Bhopal (M.P.), India
 
 Email Me 👉 ✉️ **arpitkharwade2004@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 👀 I’m interested in AI and Machine Learning.
-- 🌱 I’m currently learning and solving DSA problems with the help of C++.
+- 👀 I’m interested in AI and Machine Learning, Full Stack Web Development using MERN, DevOps and more.
+- 🌱 I’m currently solving DSA problems on LeetCode with the help of C++.
 - 💞️ I’m looking to collaborate on AIML projects and Web Dev projects.
   
 ## 🌐 Socials:
