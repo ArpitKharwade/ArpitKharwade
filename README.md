@@ -1,5 +1,5 @@
 #  Hi 👋, I'm Arpit Kharwade 
-### CSE-AIML Graduate at LNCTE, Bhopal (M.P.), India
+### CSE-AIML Graduate | AI/ML Enthusiast | Full Stack Developer
 
 Email Me 👉 ✉️ **arpitkharwade2004@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
