@@ -65,12 +65,12 @@ Email Me 👉 ✉️ **arpitkharwade2004@gmail.com** For Collaboration/Project o
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) 
 
-![AI Enthusiast](https://img.shields.io/badge/Trophy-AI%20Enthusiast-blue?style=for-the-badge&logo=python&logoColor=white)
 
-![Web Developer](https://img.shields.io/badge/Trophy-Web%20Developer-green?style=for-the-badge&logo=react&logoColor=white)
+## 🏆 GitHub Trophies
 
-![Problem Solver](https://img.shields.io/badge/Trophy-Problem%20Solver-orange?style=for-the-badge&logo=leetcode&logoColor=white)
+![](https://github-profile-trophy.vercel.app/?username=ArpitKharwade&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
+---
 
 <!-- Snake Game Repo View -->
 
