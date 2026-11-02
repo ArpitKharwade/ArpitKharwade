@@ -66,11 +66,6 @@ Email Me 👉 ✉️ **arpitkharwade2004@gmail.com** For Collaboration/Project o
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) 
 
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=ArpitKharwade&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
----
 
 <!-- Snake Game Repo View -->
 
