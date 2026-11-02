@@ -6,6 +6,7 @@ Email Me 👉 ✉️ **arpitkharwade2004@gmail.com** For Collaboration/Project o
 - 👀 I’m interested in AI and Machine Learning, Full Stack Web Development using MERN, DevOps and more.
 - 🌱 I’m currently solving DSA problems on LeetCode with the help of C++.
 - 💞️ I’m looking to collaborate on AIML projects and Web Dev projects.
+- 🚀 Passionate about building practical solutions and exploring emerging technologies.
   
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/arpit.kharwade.7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_arpitk_2004_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arpit-kharwade) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arpitkharwade2004@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/arpitkharwade2004/)
