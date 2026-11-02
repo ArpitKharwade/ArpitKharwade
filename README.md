@@ -19,6 +19,25 @@ Email Me 👉 ✉️ **arpitkharwade2004@gmail.com** For Collaboration/Project o
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
+### 🧠 Core Computer Science & DSA
+[![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-2E8B57?style=for-the-badge)](https://www.geeksforgeeks.org/data-structures/)
+[![OOP](https://img.shields.io/badge/Object_Oriented_Programming-6A5ACD?style=for-the-badge)](https://en.wikipedia.org/wiki/Object-oriented_programming)
+[![DBMS](https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge)](https://en.wikipedia.org/wiki/Database)
+[![OS](https://img.shields.io/badge/Operating_Systems-333333?style=for-the-badge)](https://en.wikipedia.org/wiki/Operating_system)
+[![CN](https://img.shields.io/badge/Computer_Networks-0078D4?style=for-the-badge)](https://en.wikipedia.org/wiki/Computer_network)
+[![Software Engineering](https://img.shields.io/badge/Software_Engineering-7952B3?style=for-the-badge)](https://en.wikipedia.org/wiki/Software_engineering)
+
+
+### 🤖 Machine Learning & Generative AI
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
+[![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)](https://matplotlib.org/)
+[![LLM APIs](https://img.shields.io/badge/LLM_APIs-412991?style=for-the-badge)](https://platform.openai.com/docs/)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com/)
+[![AI Agents](https://img.shields.io/badge/AI_Agents-6A5ACD?style=for-the-badge)](https://python.langchain.com/docs/)
+
 ### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -27,16 +46,6 @@ Email Me 👉 ✉️ **arpitkharwade2004@gmail.com** For Collaboration/Project o
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### 🤖 AI / ML & Data Science
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
